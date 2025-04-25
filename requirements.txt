@@ -1,0 +1,7 @@
+flask
+transformers
+torch
+nltk
+scikit-learn
+spacy
+emoji
